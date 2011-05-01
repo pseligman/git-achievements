@@ -2,6 +2,7 @@
 <title>Paul Seligman's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Blacksmith (Level 8)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Architect (Level 4)</title><description>Created a new repository with git init.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Blacksmith (Level 7)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
