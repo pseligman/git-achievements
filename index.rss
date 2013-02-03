@@ -2,6 +2,7 @@
 <title>Paul Seligman's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Master Blacksmith (Level 8)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Product Manager (Level 9)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Archivist (Level 6)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
@@ -21,5 +22,4 @@
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 393 times with git add -p.</description></item>
-<item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
